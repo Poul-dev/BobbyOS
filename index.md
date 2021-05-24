@@ -1,4 +1,4 @@
-## Version actuelle : 0.9.8
+## Version actuelle : 0.9.9
 ---------------------------------------------------------------------------------------------------------------------
 ### Pour installer une mise à jour rendez-vous sur le navigateur de Android et télécharger le fichier .apk sur Discord ou dans les releases du gitHub et executé le.
 ---------------------------------------------------------------------------------------------------------------------
